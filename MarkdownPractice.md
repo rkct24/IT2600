@@ -4,4 +4,4 @@
 
 [Wikipedia](https://en.wikipedia.org)
 
-[README.md](../IT2600/master/README.md)
+[README.md](../blob/master/README.md)
