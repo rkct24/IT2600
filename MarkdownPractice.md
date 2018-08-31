@@ -7,3 +7,5 @@
 [README.md](../master/README.md)
 
 ![Tiger](../master/Tiger.jpg)
+
+[Chicago Skyline](http://minerwines.com/wp-content/uploads/2017/03/blog_chicago_skyline.jpg)
