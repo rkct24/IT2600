@@ -14,3 +14,25 @@
 ```HTML
 <p> This sentence has no meaning. </p>
 ```
+
+>This is a blockquote. I am a blockquote. We all are blockquotes.
+
+* Apple
+* Blueberry 
+* Pineapple
+
+1. Carrot
+2. Potato
+3. Tomato
+
+
+Wins | Losses | Ties
+--- | --- | --- 
+3 | 2 | 0
+
+**Bold**
+*Not Bold*
+
+~~You have recieved an D+~~
+
+***
