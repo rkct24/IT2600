@@ -1,6 +1,6 @@
-##Markdown Practice
+## Markdown Practice
 
-####IT 2600
+#### IT 2600
 
 
 
